@@ -13,5 +13,19 @@
     "linebot": "^1.5.3",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
-  }
+  },
+  "description": "LineBot",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmagiArashi/LineBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmagiArashi/LineBot/issues"
+  },
+  "homepage": "https://github.com/AmagiArashi/LineBot#readme"
 }
